@@ -25,7 +25,7 @@ Read the input from the standard input
 
 -   The input reads 4 kinds of commands:
     -   `ADD number` adds `number`
-    -   `REMOVE number` tries to remove an occurance of `number`
+    -   `REMOVE number` tries to remove an occurrence of `number`
     -   `GET position` finds the frequent number at position
         -   If the position is invalid, print error
     -   `END` stops the program
