@@ -12,10 +12,10 @@ The possible operations are **7** as follows:
   - Creates a directory at the specified location
 - `mv SOURCE DESTINATION`
   - Moves an empty directory from `SOURCE` to `DESTINATION`
-  - `DESTINATION` + the of the directory must be non-existent
+  - `DESTINATION` + the name of the directory must be non-existent
 - `mv SOURCE DESTINATION`
   - Copy an empty directory from `SOURCE` to `DESTINATION`
-  - `DESTINATION` + the of the directory must be non-existent
+  - `DESTINATION` + the name of the directory must be non-existent
 - `cd DIR_NAME`
   - Change the current directory to specified location
 - `ls`
