@@ -13,7 +13,7 @@ The possible operations are **7** as follows:
 - `mv SOURCE DESTINATION`
   - Moves an empty directory from `SOURCE` to `DESTINATION`
   - `DESTINATION` + the name of the directory must be non-existent
-- `mv SOURCE DESTINATION`
+- `cp SOURCE DESTINATION`
   - Copy an empty directory from `SOURCE` to `DESTINATION`
   - `DESTINATION` + the name of the directory must be non-existent
 - `cd DIR_NAME`
