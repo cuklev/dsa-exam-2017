@@ -3,3 +3,8 @@
 *.exe
 *.cpp
 *.py
+*.sh
+*.pdf
+*.dll
+*.js
+*.zip
