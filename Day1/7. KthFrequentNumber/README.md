@@ -119,6 +119,79 @@ Error: 5 is invalid K
 
 
 
+<table>
+<tr>
+<th>Input</th>
+<th>Outut</th>
+</tr>
+<tr>
+<td>
+<pre><code>ADD 5
+ADD 4
+ADD 3
+ADD 2
+ADD 1
+GET 1
+GET 2
+GET 3
+GET 4
+GET 5
+ADD 2
+GET 1
+GET 2
+GET 3
+GET 4
+GET 5
+REMOVE 2
+GET 1
+GET 2
+GET 3
+GET 4
+GET 5
+REMOVE 2
+REMOVE 2
+GET 1
+GET 2
+GET 3
+GET 4
+GET 5
+END</code></pre>
+</td>
+<td>
+<pre><code>Ok: 1 added
+Ok: 2 added
+Ok: 3 added
+Ok: 4 added
+Ok: 5 added
+Ok: Found 1
+Ok: Found 2
+Ok: Found 3
+Ok: Found 4
+Ok: Found 5
+Ok: 2 added
+Ok: Found 2
+Ok: Found 1
+Ok: Found 3
+Ok: Found 4
+Ok: Found 5
+Ok: Number 2 removed
+Ok: Found 1
+Ok: Found 2
+Ok: Found 3
+Ok: Found 4
+Ok: Found 5
+Ok: Number 2 removed
+Error: Number 2 not found
+Ok: Found 1
+Ok: Found 3
+Ok: Found 4
+Ok: Found 5
+Error: 5 is invalid K
+ </code></pre>
+</td></tr>
+
+</table>
+
 
 
 
