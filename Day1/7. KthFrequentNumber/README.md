@@ -39,6 +39,7 @@ Print the output on the standard output
 
 ## Constraints
 - **See BGcoder for time and memory limits**
+- The commands will always be less than 36046
 
 ## Sample Tests
 
