@@ -158,11 +158,11 @@ GET 5
 END</code></pre>
 </td>
 <td>
-<pre><code>Ok: 1 added
-Ok: 2 added
-Ok: 3 added
+<pre><code>Ok: 5 added
 Ok: 4 added
-Ok: 5 added
+Ok: 3 added
+Ok: 2 added
+Ok: 1 added
 Ok: Found 1
 Ok: Found 2
 Ok: Found 3
