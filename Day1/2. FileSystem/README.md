@@ -38,7 +38,11 @@ Read the input from the standard Input
 
 ## Output
 
-Print the output on the standard oyutput
+Print the output on the standard output
+
+## Constraints
+
+- The operations will always be less than 1025
 
 
 ## Sample Tests
