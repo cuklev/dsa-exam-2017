@@ -179,4 +179,3 @@ Print the output on the standard output
     <td>exit</td>
   </tr>
 </table>
-```
