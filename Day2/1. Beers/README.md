@@ -39,6 +39,12 @@ Print to the standard output
 
 - On the single line of the output, print the minimal time it takes Coki to reach the exit
 
+## Constraints
+
+-   `N` and `M` are always less than 2^22
+-   `B` is less than 2^14
+-   The time will never be less than 0
+    -   Even if you collect all stacks of beers
 
 ## Sample tests
 
