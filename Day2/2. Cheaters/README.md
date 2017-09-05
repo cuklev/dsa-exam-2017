@@ -49,7 +49,8 @@ Print to the standard output
 ### input
 
 
-```7
+```
+7
 Coki Doncho Math
 Doncho Coki Graphs
 Doncho Yana Math
@@ -58,8 +59,6 @@ Doncho Stamat Math
 Doncho Coki Dynamic Programming
 Stamat Yana Math
 6
-Aced rigorous exams in English and cognitive skills (IQ)
-Worked on a career jumpstart program to prepare them for what’s next
 Coki Math
 Doncho Math
 Stamat Math
@@ -69,8 +68,6 @@ Coki Dynamic Programming
 ```
 
 ### Output
-Aced rigorous exams in English and cognitive skills (IQ)
-Worked on a career jumpstart program to prepare them for what’s next
 
 ```
 Yana, Stamat, Doncho, Coki
