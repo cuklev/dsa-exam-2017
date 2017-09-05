@@ -51,7 +51,7 @@ Print to the standard output
 ### Input
 
 ```
-7 8 3
+8 9 3
 4 1
 7 3
 1 6
