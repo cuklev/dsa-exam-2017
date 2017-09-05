@@ -21,7 +21,7 @@ Read from the standard Input
 - On the next `2*N` lines find exactly `N` couples of lines
   - Each couple has:
     - On the first line of the couple are the numbers `M and G`, separated by a whitespace
-      - `N` is the number of numbers in the sequence
+      - `M` is the number of numbers in the sequence
       - `G` is the number of groups
     - On the second line of the couple are exactly `M` numbers, separated by a whitespace
 
