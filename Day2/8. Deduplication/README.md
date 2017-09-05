@@ -52,9 +52,10 @@ Implement several commands for a CoW powered filesystem:
  - Print all results of `usage` and `size` commands
 
 ## Constraints
+- There will be at most `10000` commands
 - Filenames will be consisted only of english letters, numbers, dashes (`-`), underscores (`_`) and dots (`.`)
-- Filenames will be at most `32` symbols
-- Each block is exactly `128` bytes large
+- Filenames will be at most `32` symbols in length
+- Each block is exactly `128` bytes large (`256` hex digits)
   - Each byte will be represented as two hex digits (`0123456789ABCDEF`)
 - **See BGcoder for time and memory limits**
 
