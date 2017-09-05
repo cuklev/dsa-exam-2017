@@ -19,6 +19,7 @@ You can think of the desert as a rectangular field with size `NxM`.
 
 Help Coki to reach the exit as fast as possible!
 
+<img src="sample.png">
 
 ## Input
 
@@ -37,3 +38,20 @@ Print to the standard output
 
 
 ## Sample tests
+
+### Input
+
+```
+7 8 3
+4 0
+7 3
+1 6
+```
+
+
+### Output
+
+
+```
+5
+```
