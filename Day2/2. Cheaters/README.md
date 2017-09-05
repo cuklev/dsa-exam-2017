@@ -39,8 +39,8 @@ Print to the standard output
 
 ## Constraints
 
-- The number of commands will be less than 2<super>20</super>
-- The number of commands will be less than 2<super>10</super>
+- The number of commands will be less than 2<sup>20</sup>
+- The number of commands will be less than 2<sup>10</sup>
 - All equals operations are case sensitive
   - i.e. `Dynamic Programming` is different that `dynamic programming`
 
