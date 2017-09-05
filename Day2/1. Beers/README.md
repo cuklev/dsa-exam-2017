@@ -19,7 +19,10 @@ You can think of the desert as a rectangular field with size `NxM`.
 
 Help Coki to reach the exit as fast as possible!
 
+## Examples
+
 <img src="sample.png">
+<img src="./sample-2.png">
 
 ## Input
 
