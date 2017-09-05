@@ -33,6 +33,7 @@ The input will be valid and there is no need to check it explicitly
 
 ## Constraints
 - **See BGcoder for time and memory limits**
+- The digits will always be at most 14
 
 ## Sample tests
 

@@ -39,6 +39,7 @@ The output will be printed on the standard output
 
 ## Constraints
 - **See BGcoder for time and memory limits**
+- The buildings will always be less than 103344
 
 ## Sample Tests
 
