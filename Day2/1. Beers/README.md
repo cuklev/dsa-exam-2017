@@ -52,7 +52,7 @@ Print to the standard output
 
 ```
 7 8 3
-4 0
+4 1
 7 3
 1 6
 ```
